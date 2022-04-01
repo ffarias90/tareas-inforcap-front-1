@@ -58,6 +58,8 @@ article {
   padding: 30px;
   margin-left: 0px;
   overflow: auto;
+  color: rgb(33, 43, 56);
+  background-color: rgb(185, 196, 0);
 }
 
 .img-index {
